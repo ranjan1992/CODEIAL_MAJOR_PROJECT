@@ -1,6 +1,6 @@
-# CODIEL APP
+# CODEIAL APP
 
-The CODIEL APP is basically created for creating POSTS and commenting on the POSTS so as to share opinions on the respective POSTS. We can also add friends. There is also profile updation page on which we can upload documents(here images).
+The CODEIAL APP is basically created for creating POSTS and commenting on the POSTS so as to share opinions on the respective POSTS. We can also add friends. There is also profile updation page on which we can upload documents(here images).
 
 In this App, I mainly deal with following tasks:
 
